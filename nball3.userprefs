@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\cube\agthoekscript.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\BallScript.cs" Line="31" Column="3" />
+      <File FileName="Assets\Standard Assets\Scripts\ListScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\NewGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\StartupScript.cs" Line="144" Column="3" />
+      <File FileName="Assets\Standard Assets\Scripts\MeasureShaking.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\MainPlane.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\cube\agthoekscript.cs" Line="43" Column="28" />
+      <File FileName="Assets\Standard Assets\Scripts\sideTrigger.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
